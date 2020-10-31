@@ -1,4 +1,6 @@
-﻿# opencore-hackintosh-strix-z370i
+![main-header](images/main-header.png)
+
+# opencore-hackintosh-strix-z370i
 
 OpenCore Hackintosh built with an i7-8700k in a ASUS ROG Strix Z370-I Gaming ITX motherboard.
 
